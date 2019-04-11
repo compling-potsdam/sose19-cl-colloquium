@@ -17,7 +17,7 @@ For now, just the schedule, and the announcement that it will be possible to get
 09 | 2019-06-05 | *no talk scheduled*  | |
 10 | 2019-06-12 | Staffan Larsson (Gothenburg) | tba |
 11 | 2019-06-19 | Feiyu Xu (Lenovo) *to be confirmed* | tba
-12 | 2019-06-26 | Milica Gasic (Düsseldorf) | tba
+12 | 2019-06-26 | Milica Gasic (Düsseldorf) | Note: Unusual Time, **10am-12noon**
 13 | 2019-07-03 | Raquel Fernández (Amsterdam) | tba
 14 | 2019-07-10 | *no talk scheduled* | |
 15 | 2019-07-17 | *no talk scheduled* | |
