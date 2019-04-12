@@ -1,8 +1,9 @@
 # Computational Linguistics Colloquium Potsdam, Summer 2019
 
 
-For now, just the schedule, and the announcement that it will be possible to get credit for taking this class. If you are interested in this, come to the session on
+For now, just the schedule, and the announcement that it will be possible to get credit for taking this class. If you are interested in this, come to the session on April 17.
 
+Unless otherwise specified, talks start at 4:15pm and will be about 60 minutes + time for questions. Light refreshments will be served after the talks.
 
 | Week | Date | Presenter(s) | Title / Abstract|
 |:------:|:------:|-----------|------|
