@@ -7,7 +7,7 @@ For now, just the schedule, and the announcement that it will be possible to get
 | Week | Date | Presenter(s) | Title / Abstract|
 |:------:|:------:|-----------|------|
 01 | 2019-04-10 | *no talk scheduled* | |
-02 | 2019-04-17 | *David Schlangen* | *Information on getting credit for this course* |
+02 | 2019-04-17 | *David Schlangen* | [*Information on getting credit for this course*](material/01-colloq-guidelines.pdf) |
 03 | 2019-04-24 | CL students | Poster Slam |
 04 | 2019-05-01 | *public holiday* | |
 05 | 2019-05-08 | Alan Nichols (RASA) | tba |
