@@ -11,14 +11,14 @@ Unless otherwise specified, talks start at 4:15pm and will be about 60 minutes +
 02 | 2019-04-17 | *David Schlangen* | [*Information on getting credit for this course*](material/01-colloq-guidelines.pdf) |
 03 | 2019-04-24 | CL students | Poster Slam |
 04 | 2019-05-01 | *public holiday* | |
-05 | 2019-05-08 | Alan Nichols (RASA) | tba |
-06 | 2019-05-15 | Shlomi Hod (Potsdam) | tba |
-07 | 2019-05-22 | Alan Akbik (Zalando) | tba |
+05 | 2019-05-08 | Alan Nichols ([RASA, Berlin](https://rasa.com)) | [Topic: NLU/DM for chatbots] Title TBA |
+06 | 2019-05-15 | Shlomi Hod (Potsdam) | [Topic: Bias in ML] Title TBA |
+07 | 2019-05-22 | [Alan Akbik](http://alanakbik.github.io) (Zalando) | tba |
 08 | 2019-05-29 | *no talk scheduled*  | |
 09 | 2019-06-05 | *no talk scheduled*  | |
-10 | 2019-06-12 | Staffan Larsson (Gothenburg) | tba |
+10 | 2019-06-12 | [Staffan Larsson](https://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xlstaw) (Gothenburg) | tba |
 11 | 2019-06-19 | Feiyu Xu (Lenovo) *to be confirmed* | tba
 12 | 2019-06-26 | Milica Gasic (Düsseldorf) | Note: Unusual Time, **10am-12noon**
-13 | 2019-07-03 | Raquel Fernández (Amsterdam) | tba
+13 | 2019-07-03 | [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) (Amsterdam) | tba
 14 | 2019-07-10 | *no talk scheduled* | |
 15 | 2019-07-17 | *no talk scheduled* | |
