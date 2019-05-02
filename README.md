@@ -12,7 +12,7 @@ Unless otherwise specified, talks start at 4:15pm and will be about 60 minutes +
 02 | 2019-04-17 | *David Schlangen* | [*Information on getting credit for this course*](material/01-colloq-guidelines.pdf) |
 03 | 2019-04-24 | CL students | Poster Slam |
 04 | 2019-05-01 | *public holiday* | |
-05 | 2019-05-08 | Alan Nichol ([RASA, Berlin](https://rasa.com)) | Shipping applied research in conversational AI ([Abstract](abstracts/nichol.txt)) |
+05 | 2019-05-08 | Alan Nichol ([RASA, Berlin](https://rasa.com)) | Shipping applied research in conversational AI ([Abstract](abstracts/nichol.md)) |
 06 | 2019-05-15 | Shlomi Hod (Potsdam) | Using `Ethically` Toolkit to Measure and De-bias Gender Bias in Words Embedding ([Abstract](abstracts/hod.pdf)) |
 07 | 2019-05-22 | [Alan Akbik](http://alanakbik.github.io) (Zalando) | tba |
 08 | 2019-05-29 | *no talk scheduled*  | |
