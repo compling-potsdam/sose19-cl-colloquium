@@ -4,7 +4,7 @@
 For now, just the schedule, and the announcement that it will be possible to get credit for taking this class. If you are interested in this, come to the session on April 17.
 
 Unless otherwise specified, talks start at 4:15pm and will be about 60 minutes + time for questions.
-<!--Light refreshments will be served after the talks.--> All talks will take place in Building 14, room 0.09, Campus Golm. See [map](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=2).
+All talks will take place in Building 14, room 0.09, Campus Golm. See  [map](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=2).
 
 
 | Week | Date | Presenter(s) | Title / Abstract|
