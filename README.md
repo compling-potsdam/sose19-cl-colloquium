@@ -21,6 +21,6 @@ All talks will take place in Building 14, room 0.09, Campus Golm. See  [map](htt
 10 | 2019-06-12 | [Staffan Larsson](https://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xlstaw) (Gothenburg) | Perceptual semantics and dialogue processing ([Abstract](abstracts/larsson.md)) |
 11 | 2019-06-19 | *no talk scheduled* | |
 12 | 2019-06-26 | [Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning.html)  (Düsseldorf) | **10am-12noon, Building 28, 0.104 (2.28 0.104)** Deep learning for natural dialogue modelling ([Abstract](abstracts/gasic.md))
-13 | 2019-07-03 | [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) (Amsterdam) | tba
+13 | 2019-07-03 | [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) (Amsterdam) | Neural Models of Visually-Grounded Dialogue ([Abstract](abstracts/fernandez.md))
 14 | 2019-07-10 | *no talk scheduled* | |
 15 | 2019-07-17 | *no talk scheduled* | |
